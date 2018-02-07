@@ -1,5 +1,4 @@
 # hello-world
 First repository
+My name is Cécile
 
-Hello! My name is Cécile
-Hi!
